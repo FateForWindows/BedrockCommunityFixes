@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Fixes texture, model and sound issues in the Bedrock-based editions",
+		"name": "Bedrock Community Fixes - Resources",
+		"uuid": "31b22e9e-7068-4328-9588-2166920d84d5",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 14, 0]
+	},
+	"modules": [
+	    {
+			"description": "Fixes texture, model and sound issues in the Bedrock-based editions",
+			"type": "resources",
+			"uuid": "871531bf-ab4c-4b80-aa3e-89491df1d48c",
+			"version": [0, 0, 1]
+    	}
+	]
+}

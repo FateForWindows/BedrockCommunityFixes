@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Fixes behavior pack errors in Bedrock-based editions",
+		"name": "Bedrock Community Fixes - Behavior",
+		"uuid": "166f602f-8a61-4be7-83aa-14c7b8d182b1",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 14, 60]
+	},
+	"modules": [
+		{
+			"description": "Fixes behavior pack errors in Bedrock-based editions",
+			"type": "data",
+			"uuid": "9479bc77-aabb-41b7-9924-a9d122589cc3",
+			"version": [0, 0, 1]
+		}
+	],
+	"dependencies": [
+        {
+            "uuid": "31b22e9e-7068-4328-9588-2166920d84d5",
+            "version": [0, 0, 1]
+        }
+	]
+}
